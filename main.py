@@ -2,8 +2,9 @@ balance = 0
 
 acc_nums = {"cha233" : 0, "bha215" : 0, "bha216" : 0}
 
-printf("HELLO")
-printf("HI")
+print("HELLO")
+print("HI")
+print("hii")
 def printing_stuff():
     print("To create a new account --> 1")
     print("To deposit money --> 2")
